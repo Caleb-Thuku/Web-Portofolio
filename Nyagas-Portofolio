@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to Nyaga's Portofolio</title>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+  <head>
+     <img src="images/IMG-20171204-WA0016.jpg"
+  <div class="container">
+  <div class="jumbotron">
+  <div class="well">
+   <body>
+    <h1>My Portofolio</h1>
+     <h2>About Myself</h2>
+    <p>I am Caleb Nyaga Thuku,a 17 year old young man enthusiastic about achieving in life.I am an alumni of Alliance High School, class of 2017.My religious faith is Christianity, I attend Christ Is The Answer Ministries Karen. From as long as I can rememember, I have harboured a deep fascination for technological gadgets since my chilhood days. As the years have gone by, this intriguing attraction has grown and is still growing. My father is an eye surgeon at Kenyatta National Hospital and my mother a teacher at Kanjeru Primary School while my first sister is doing a BSC in Medicine and Surgery at the University of Nairobi.Meanwhile, my second sister Faith, is pursuing a degree in Law at Strathmore University.</p>
+     <h2>Achievements</h2>
+      <p>At the tender age of 17, I have been privileged to take part in several programmes. One of this being the World Scholars Cup 2016 competition held in Bangkok,Thailand. My team proceeded to the finals of the competition that were held in Yale University,USA. In addition to that I also underwent a mentorship and intership programme at MODE (Mobile Decisioning), a global company dealing with micro finance and nano finance in 31 countries.I attended this internship in 2016. In my final year of school, my passion in Information and Communication Technology culminated in me vying and being elected the prestigious position of IT & LINKS Captain at Alliance High School. My duties were specifically to:
+        <ul>
+         <li><em>Deal with issuing permission to students to access school internet resources</em></li>
+         <li><em>Represent Form 4 Computer Students </em></li>
+         <li><em>Lead and coordinate the Science and Engineering Fair in all stages up to National Level</em></li>
+         <li><em>Ensure Computer Resources in the school are being put to good use.</em></li>
+         <li><em>Compile termly reports on the department.</em></li>
+       </ul>
+    <h2>Why Programming</h2>
+     <p>My long kept interest in electronic gadgets has largely influenced this choice. This interest brought up one key question in me. That underneath the solid covers and bodies of the phones,televisions,laptops and so on. What acts as the brain of this devices? What makes them 'think',operate and run all this tasks. Ultimately, all my questions had one simple answer. These is all <strong>Programming</strong>. Thus so, I have decided to learn programming and become a full stream programme. One area that I would love to advance in is <em>Artificial Intelligence</em></p>
+
+    </body>
+  </div>
+  </div>
+  </div>
+</html>
